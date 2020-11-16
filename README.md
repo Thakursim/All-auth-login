@@ -1,7 +1,7 @@
 # Login with email.
  
 This applications helps you to login and logout using email-id. 
-It is made with the helpp of django. 
+It is made with the help of django. 
 
 Clone this repository using this command:-
 
